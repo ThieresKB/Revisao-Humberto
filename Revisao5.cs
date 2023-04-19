@@ -6,7 +6,7 @@ namespace Review5
     {
         public Exercise5()
         {
-            string Target="https://visualgo.net/en/sorting?create=9,5,1,30,17,11,8,23,2,13&quicksort=true";
+            string Target="https://visualgo.net/en/sorting?create=9,5,1,30,17,11,8,23,2,13";
             
             while (true)
             {         
